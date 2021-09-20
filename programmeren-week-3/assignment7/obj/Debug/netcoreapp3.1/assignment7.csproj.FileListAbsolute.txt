@@ -1,0 +1,14 @@
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.exe
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.deps.json
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.runtimeconfig.json
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.runtimeconfig.dev.json
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.dll
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.pdb
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.AssemblyInfoInputs.cache
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.AssemblyInfo.cs
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.csproj.CoreCompileInputs.cache
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.dll
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.pdb
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.genruntimeconfig.cache
+C:\Users\bruhmas\source\repos\programming-week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.csproj.AssemblyReference.cache

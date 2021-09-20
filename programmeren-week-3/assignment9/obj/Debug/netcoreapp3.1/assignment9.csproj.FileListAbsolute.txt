@@ -1,0 +1,16 @@
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\bin\Debug\netcoreapp3.1\assignment9.exe
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\bin\Debug\netcoreapp3.1\assignment9.deps.json
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\bin\Debug\netcoreapp3.1\assignment9.runtimeconfig.json
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\bin\Debug\netcoreapp3.1\assignment9.runtimeconfig.dev.json
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\bin\Debug\netcoreapp3.1\assignment9.dll
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\bin\Debug\netcoreapp3.1\assignment9.pdb
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.csproj.AssemblyReference.cache
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.Form1.resources
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.csproj.GenerateResource.cache
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.AssemblyInfoInputs.cache
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.AssemblyInfo.cs
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.csproj.CoreCompileInputs.cache
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.dll
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.pdb
+C:\Users\bruhmas\source\repos\programming-week-3\assignment9\obj\Debug\netcoreapp3.1\assignment9.genruntimeconfig.cache
